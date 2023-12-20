@@ -9,9 +9,7 @@ BFS - https://e-maxx.ru/algo/bfs
 DFS - https://e-maxx.ru/algo/dfs
 
 
-Кормен, Лейзерсон, Ривест, Штайн. Алгоритмы. Построение и анализ (1-е изд.?)
-
-https://e-maxx.ru/bookz/files/cormen.pdf
+Кормен, Лейзерсон, Ривест, Штайн. Алгоритмы. Построение и анализ (1-е изд.?) - https://e-maxx.ru/bookz/files/cormen.pdf
 
 ## Практика
 
